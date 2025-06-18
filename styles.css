@@ -1,4 +1,7 @@
-                h1{
+        body{
+            background-color: #ccc;
+        }      
+        h1{
             background-color: black;
             font-family: cursive;
         }
@@ -17,6 +20,20 @@
         h6{
             font-family: cursive;
         }
-                p{
+        p{
             font-family: fantasy;
+        }
+        .paragrafoespecial{
+            background-color: black;
+            color: greenyellow;
+        }
+        .fontemuitomassaodoido{
+            font-size: larger;
+            font-family: sans-serif;
+        }
+        .textcentro{
+            text-align: center;
+        }
+        .textdireita{
+            text-align: right;
         }
